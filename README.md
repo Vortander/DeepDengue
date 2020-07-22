@@ -8,7 +8,7 @@ Andersson, V. O., Cechinel, C., & Araujo, R. M. (2019, July). Combining Street-l
 
 ```
 
-@inproceedings{andersson2019combining,
+@inproceedings{AnderssonIJCNN2019,
 	title={Combining Street-level and Aerial Images for Dengue Incidence Rate Estimation},
 	author={Andersson, Virginia Ortiz and Cechinel, Cristian and Araujo, Ricardo Matsumura},
 	booktitle={2019 International Joint Conference on Neural Networks (IJCNN)},
@@ -23,7 +23,7 @@ or for **any other model** in this repository, **cite** using:
 
 ```
 
-@phdthesis{phdthesis,
+@phdthesis{AnderssonThesis2019,
 	author = {Andersson, Virginia Ortiz},
 	title = {Dengue Incidence Rate Estimation Using Aerial and Street-level Urban Imagery with Deep Learning Models},
 	school = {Federal University of Pelotas (UFPel)},
