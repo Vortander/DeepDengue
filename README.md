@@ -1,5 +1,9 @@
 # DeepDengue
-Deep Dengue Models
+
+DeepDengue is a collection of deep learning models trained for the estimation of dengue fever cases in geographic locations, using only street-level and aerial images as input.
+This work was developed during my Doctorate degree in Computer Science, at Federal University of Pelotas ([UFPel](http://portal.ufpel.edu.br/)).
+The full-text of my Thesis is available at [ResearchGate](https://www.researchgate.net/publication/340488901).
+
 
 ## HOW TO CITE 
 To use *RioSat21*, *RioStreet* and *RioStreetSat21*, **cite** using:
